@@ -1,6 +1,6 @@
 # Hi there, I'm Akhilesh 👋
 
-I'm a passionate web developer with a strong background in building dynamic and responsive web applications. I love exploring new technologies and continuously improving my skills. Here's a bit about me and what I work with:
+I'm a passionate developer with a strong background in building dynamic and responsive web applications. I love exploring new technologies and continuously improving my skills. Here's a bit about me and what I work with:
 
 ## 🚀 About Me
 

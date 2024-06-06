@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Akhilesh 👋
 
-<!--
-**akhilesh-m01/akhilesh-m01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate web developer with a strong background in building dynamic and responsive web applications. I love exploring new technologies and continuously improving my skills. Here's a bit about me and what I work with:
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 I specialize in **ReactJS** for building interactive user interfaces.
+- 📦 Backend development using **NodeJS** and **ExpressJS**.
+- 🗄️ Experienced with both **MongoDB** and **PostgreSQL** for database management.
+- 💡 Proficient in **TypeScript** for type-safe JavaScript development.
+- 🧩 Using **Prisma** for seamless database integration.
+- ⚡ Building server-side rendered applications with **NextJS**.
+- 🎨 Designing modern and responsive UIs with **TailwindCSS**.
+
+## 🔧 Technologies & Tools
+
+- **Frontend**: ReactJS, NextJS, TypeScript, TailwindCSS
+- **Backend**: NodeJS, ExpressJS
+- **Databases**: MongoDB, PostgreSQL, MySQL
+- **ORM**: Prisma
+- **Others**: Git, GitHub, REST APIs, GraphQL
+
+--- 
+
+Thank you for visiting my GitHub profile! 😊

@@ -4,7 +4,7 @@ I'm a passionate developer with a strong background in building dynamic and resp
 
 ## 🚀 About Me
 
-- 🌐 I specialize in **ReactJS** for building interactive user interfaces.
+- 🌐 I specialize in **ReactJS** and **Angular** for building interactive user interfaces.
 - 📦 Backend development using **NodeJS** and **ExpressJS**.
 - 🗄️ Experienced with both **MongoDB** and **PostgreSQL** for database management.
 - 💡 Proficient in **TypeScript** for type-safe JavaScript development.
